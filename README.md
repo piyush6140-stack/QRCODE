@@ -10,3 +10,4 @@ In MENU
 
 QRCODE- Genrates 1.5cm x1.5cm qrcode with logo at specified directory.
 PHP- Generate PHP file for desired link.
+Download zxing.jar for qrcode
